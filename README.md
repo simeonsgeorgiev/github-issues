@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About
+
+Purpose of the task
+
+```bash
+Make a next app that search and display all open issues for `username` & `repository` with search. Every result must contain the following:
+`1. Title`
+`2. State` 
+`3. User created the issue` 
+`4. Comments counter` 
+```
+
+## Github auth
+
+For the app to run authorized you should give the code a .env file with personal github token named GITHUB_TOKEN
+
+```bash
+GITHUB_TOKEN=YOUR_PERSONAL_GITHUB_TOKEN
+```
 
 ## Getting Started
 
