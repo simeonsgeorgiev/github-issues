@@ -5,6 +5,7 @@ Purpose of the task
 ```bash
 Make a next app that search and display all open issues for `username` & `repository` with search. 
 Every result must contain the following:
+
 `1. Title`
 `2. State` 
 `3. User created the issue` 
